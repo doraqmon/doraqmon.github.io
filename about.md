@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Candidates for UBC MDS program 
+Candidate for UBC MDS program 
 
 ### More Information
 
