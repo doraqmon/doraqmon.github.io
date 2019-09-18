@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-hahahahah
+Candidates for UBC MDS program 
 
 ### More Information
 
-doradora
+Foodie, Dog Lover, Traveler
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yingpingdoraqian@gmail.com](yingpingdoraqian@gmail.com)
